@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sheilxg
 - 👀 I’m interested inveterinary medicine
 - 🌱 I’m currently learning computational linguistics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on open-source projects related to natural language processing (NLP)
+- 📫 How to reach me: send me a direct message on Twitter: @sheilxg
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i love cats
 
